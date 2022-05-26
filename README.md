@@ -1,7 +1,7 @@
 <!-- 敲代码的图片 -->
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br> -->
-# Hey 👋, 不才 王志坤  ![Visitor Count](https://profile-counter.glitch.me/wangzhikun01/count.svg)
+# Hey 👋, 王某某在GitHub就瞎JB混  ![Visitor Count](https://profile-counter.glitch.me/wangzhikun01/count.svg)
 
 <br/>  
 
@@ -38,23 +38,23 @@
 💪 正在学习: 
 
 &emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![C](http://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![JavaScript](http://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![TypeScript](http://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Nodejs](http://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 
 🧰 常用的工具:
 
 &emsp;&emsp; 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![Windows](http://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](http://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Android](http://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Google Chrome](http://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Edge](http://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](http://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](http://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
